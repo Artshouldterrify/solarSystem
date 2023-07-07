@@ -80,5 +80,5 @@ Objects of both classes are initialized similar to `solarSystemBody` and `solarS
 in an identical manner, except `body` is now an object of the `solar_body` class.
 
 The only addition is the `inst.simulate()` method, which mathematically simulates the system and is
-used in [finding stable orbits via the genetic algorithm](). This method returns the number of ticks for 
+used in [finding stable orbits via the genetic algorithm](https://github.com/Artshouldterrify/solarSystem/blob/main/genetic/geneticOrbits.py). This method returns the number of ticks for 
 which the system existed without collision.
