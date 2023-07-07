@@ -65,7 +65,7 @@ while tick < max_tick:
     solar_sys_draw.update_bodies()
 turtle.done()
 ```
-![sim]()
+![sim](https://github.com/Artshouldterrify/solarSystem/blob/main/singleSun.gif)
 ***
 
 ### 2. `solar_body` and `solar_system` classes.
