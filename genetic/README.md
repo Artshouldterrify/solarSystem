@@ -170,4 +170,4 @@ turtle.done()
 ```
 One of the orbits discovered by this algorithm is shown below.
 
-![binarySim]()
+![binarySim](https://github.com/Artshouldterrify/solarSystem/blob/main/genetic/binary.gif)
